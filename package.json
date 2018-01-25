@@ -4,6 +4,7 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "elasticsearch": "^14.0.0",
+    "influx": "^5.0.7",
     "seed-random": "^2.2.0"
   }
 }
